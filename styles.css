@@ -4,13 +4,20 @@ body {
 
 header {
     text-align: center;
-    font-size: 5em;
+    font-size: 1em;
     margin: 0;
     background-color: lightblue;
     background-image: url("http://www.colourlovers.com/lover/zombiesrule0");
     background-repeat: repeat-x; repeat-y;
     background-repeat: no-repeat;
 }
+
+nav { 
+  color: red;
+  left: 20px;
+  text-align: left;
+}
+
 
 h1 { 
   color: white;
@@ -19,6 +26,5 @@ h1 {
 
 p {
   font-family: 'Verdana',
-  <!--   font-size: 20px; -->
-  font-size: 1em;
+  <!--   font-size: 20px; --> font-size: 1em;
 }
